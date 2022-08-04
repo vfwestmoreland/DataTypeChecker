@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypeChecker", "UDExercise2Colors\DataTypeChecker.csproj", "{5961FD72-36C7-46D3-A2A3-C18A503498EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5961FD72-36C7-46D3-A2A3-C18A503498EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5961FD72-36C7-46D3-A2A3-C18A503498EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5961FD72-36C7-46D3-A2A3-C18A503498EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5961FD72-36C7-46D3-A2A3-C18A503498EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DACDAD39-F84F-4FEE-BD16-6B992E8596F1}
+	EndGlobalSection
+EndGlobal
